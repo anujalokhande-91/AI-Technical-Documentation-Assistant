@@ -1,0 +1,1 @@
+print("AI Technical Documentation Assistant")
